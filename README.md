@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZakiaTisha
 - 👀 I’m interested in Data science and machine learning
-- 🌱 I’m currently learning Python and data processing
-- 💞️ I’m looking to collaborate on Machine learning Projects
+- 🌱 I’m currently learningMachine Learning Using Python
+- 💞️ I’m looking to collaborate on Numerical analysis, Data Analysis and Machine learning Projects
 - 📫 How to reach me azakiatisha57@gmail.com
 
 <!---
